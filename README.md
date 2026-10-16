@@ -2,7 +2,7 @@
 
 ## Student Details
 - **Full Name:** `<Daniel Njoku>`
-- **CCID:** `<njoku 1>`
+- **CCID:** `<njoku1>`
 
 ## References and Resources
 List any resources used here, or simply put `N/A` if not applicable.
